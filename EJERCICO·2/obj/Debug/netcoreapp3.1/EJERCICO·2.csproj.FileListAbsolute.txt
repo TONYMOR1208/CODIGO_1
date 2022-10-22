@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\CODIGO_UML\EJERCICO·2\obj\Debug\netcoreapp3.1\EJERCICO·2.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CODIGO_UML\EJERCICO·2\obj\Debug\netcoreapp3.1\EJERCICO·2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CODIGO_UML\EJERCICO·2\obj\Debug\netcoreapp3.1\EJERCICO·2.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CODIGO_UML\EJERCICO·2\obj\Debug\netcoreapp3.1\EJERCICO·2.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CODIGO_UML\EJERCICO·2\obj\Debug\netcoreapp3.1\EJERCICO·2.csproj.CoreCompileInputs.cache
